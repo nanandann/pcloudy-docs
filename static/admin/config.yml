@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: nanandann/pcloudy-docs   # your GitHub repo
-  branch: main   
+  branch: main
   #base_url: https://api.netlify.com
   #auth_endpoint: auth?provider=github&scope=repo&site_id=1c39c10d-d3a5-4e68-815b-2cb0517a66e2       # your main branch
 
