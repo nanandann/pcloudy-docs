@@ -1,7 +1,7 @@
 backend:
-  name: git-gateway
-  repo: nanandann/pcloudy-docs
-  branch: main
+  name: github
+  repo: nanandann/pcloudy-docs   # your GitHub repo
+  branch: main                   # your main branch
 
 media_folder: "static/img"
 public_folder: "/img"
